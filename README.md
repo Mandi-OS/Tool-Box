@@ -1,6 +1,15 @@
-[!][JQuery][https://google.com]
+[![license](https://i.imgur.com/GtbEvmh.png)](license)
 
 # Tool-Box
-ToolBox is a malware for ethical education, research purposes and antivirus software testing only. At the moment it contains few features, but expect a _**Global Update**_ to version 3.0 soon. A lot of new features are waiting for you.
-
-IMPORTANT: All activities and use of the contents of this repository must strictly comply with the laws and [license](https://github.com/Mandi-OS/Tool-Box/blob/Main/license) applicable to this code and materials.
+ToolBox is a malware for ethical education, research purposes and antivirus software testing only. At the moment it contains few features.
+Expect a ___Global Update___ to version 3.0 soon. A lot of new features are waiting for you.
+---
+>IMPORTANT: All activities and use of the contents of this repository must strictly comply with the laws and [license](license) applicable to this code and materials.
+>>If you want you can find translations of the license in 8 languages:
+>>+ Arabic
+>>+ German
+>>+ Spanish
+>>+ French
+>>+ Hindi
+>>+ Portugal
+>>+ Ukrainian
